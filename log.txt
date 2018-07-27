@@ -1,0 +1,20 @@
+my-tweets command:
+I don't use twitter.
+Why do I have to do this project?
+Hi All
+
+spotify-this-song
+Artist: Jeremih
+Song Name: The Light
+Preview URL: null
+Album: The Light
+
+movie-this
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 66%
+Produced in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
